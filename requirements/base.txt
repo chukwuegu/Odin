@@ -25,7 +25,7 @@ easy-thumbnails==2.6
 argon2-cffi==19.1.0
 
 # Python-PostgreSQL Database Adapter
-psycopg2==2.7.4
+psycopg2==2.8.2
 
 # Unicode slugification
 awesome-slugify==1.6.5
