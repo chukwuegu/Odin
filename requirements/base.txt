@@ -37,7 +37,7 @@ pytz==2019.1
 django-filter==2.1.0
 
 # Celery
-celery==4.1.0
+celery==4.3.0
 
 # Email services
 mandrill==1.0.57
