@@ -15,4 +15,4 @@ django-storages==1.7.1
 boto3==1.9.142
 
 # improved REPL
-ipdb==0.11
+ipdb==0.12
